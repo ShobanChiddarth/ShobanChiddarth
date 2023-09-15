@@ -1,0 +1,4 @@
+S.no (ordered by least recent),repo,title,link
+1,Numpy,MAINT: Rename INSTALL.rst.txt to INSTALL.rst,https://github.com/numpy/numpy/pull/20949
+2,PrettyTable,`None` `annotation` for __init__ constructors/functions,https://github.com/jazzband/prettytable/pull/186
+3,Numpy,MAINT: Renamed doc/records.rst.txt to doc/records.rst,https://github.com/numpy/numpy/pull/21692
