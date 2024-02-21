@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shobanchiddarth&show_icons=true&locale=en" alt="shobanchiddarth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobanchiddarth&" alt="shobanchiddarth" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobanchiddarth&" alt="shobanchiddarth" /></p> -->
