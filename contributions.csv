@@ -3,3 +3,4 @@ S.no (ordered by least recent),repo,title,link
 2,PrettyTable,`None` `annotation` for __init__ constructors/functions,https://github.com/jazzband/prettytable/pull/186
 3,Numpy,MAINT: Renamed doc/records.rst.txt to doc/records.rst,https://github.com/numpy/numpy/pull/21692
 4,pynput,Added interval functionality for type function of pynput.keyboard.Controller().type,https://github.com/moses-palmer/pynput/pull/579
+5,logpy,Fixed collections module imports for python 3.10+,https://github.com/logpy/logpy/pull/85
