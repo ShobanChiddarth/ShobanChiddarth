@@ -1,20 +1,41 @@
+# Who am I?
 
+I’m a B.Tech IT student with hands-on experience in Linux and Python, exploring networking and infrastructure projects. I use GitHub to publish tools, experiments, and practical implementations while learning.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobanchiddarth&label=Profile%20views&color=0e75b6&style=flat" alt="shobanchiddarth" /> </p>
+---
 
+## Technical Background
 
+- **Network Setup & LAN Configuration**: Home and lab network design, IP addressing, and basic routing.
+- **Router Configuration**: LAN isolation, DHCP reservations, and simple network segmentation.
+- **Linux Systems**: Installation, maintenance, and daily use on desktop and server setups.
+- **Linux Networking & Services**: SSH, Nginx, and basic DHCP configuration in lab environments.
+- **Python Programming**: Backend development, scripting, and automation for infrastructure tasks.
+- **Virtual Machines (VirtualBox)**: Using VMs for testing, learning, and network experiments.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobanchiddarth" alt="shobanchiddarth" /></a> </p>
+---
 
+## What You’ll Find Here
 
+- Networking-related experiments and lab work
+- Linux utilities and system-level scripts
+- Python tools for automation and networking tasks
+- Documentation and write-ups from hands-on learning
 
+Repos here may vary in scope. Most reflect active learning, with some finished and polished tools.
 
-<h2><a href="./contributions.csv">🔗List of all my Open Source contributions🔗</a></h2>
+---
 
+## Open Source
 
+<a href="./contributions.csv">🔗List of all my Open Source contributions🔗</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobanchiddarth&show_icons=true&locale=en&layout=compact" alt="shobanchiddarth" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shobanchiddarth&show_icons=true&locale=en" alt="shobanchiddarth" /></p>
+## Current Direction
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobanchiddarth&" alt="shobanchiddarth" /></p> -->
+- Studying for **CCNA**
+- Strengthening core networking knowledge
+- Using Python to automate and understand infrastructure concepts more deeply
+
+---
