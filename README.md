@@ -1,41 +1,33 @@
 # Who am I?
 
-I’m a B.Tech IT student with hands-on experience in Linux and Python, exploring networking and infrastructure projects. I use GitHub to publish tools, experiments, and practical implementations while learning.
+I’m a B.Tech IT student focused on cloud infrastructure, networking, and security, with hands-on experience in Linux and Python. I use GitHub to publish tools, experiments, and practical implementations while building skills for cloud-focused infrastructure and security roles.
 
 ---
 
 ## Technical Background
 
-- **Network Setup & LAN Configuration**: Home and lab network design, IP addressing, and basic routing.
-- **Router Configuration**: LAN isolation, DHCP reservations, and simple network segmentation.
-- **Linux Systems**: Installation, maintenance, and daily use on desktop and server setups.
-- **Linux Networking & Services**: SSH, Nginx, and basic DHCP configuration in lab environments.
-- **Python Programming**: Backend development, scripting, and automation for infrastructure tasks.
-- **Virtual Machines (VirtualBox)**: Using VMs for testing, learning, and network experiments.
+- **Cloud & AWS & GCP**: Deployment and management of infrastructure on AWS, including EC2, S3, IAM, and VPC design.  
+- **Network Setup & LAN Configuration**: Home and lab network design, IP addressing, VLANs, inter-VLAN routing, and basic routing.  
+- **Router Configuration & Segmentation**: LAN isolation, DHCP reservations, network segmentation, and firewall/ACL configuration.  
+- **Linux Systems**: Installation, maintenance, and daily use on desktop and server setups, including headless servers.  
+- **Linux Networking & Services**: SSH hardening, Nginx, DHCP, UFW firewall configuration, and network monitoring in lab environments.  
+- **Python Programming**: Scripting for automation, infrastructure tasks, and minor open-source contributions.  
+- **Virtual Machines & Home Labs**: Using VMs and physical servers for testing, networking experiments, and cloud-style setups.  
+- **Docker & CI/CD**: Local container orchestration, image management, and basic CI/CD pipelines with GitHub Actions.
 
 ---
 
 ## What You’ll Find Here
 
-- Networking-related experiments and lab work
-- Linux utilities and system-level scripts
-- Python tools for automation and networking tasks
-- Documentation and write-ups from hands-on learning
+- Networking and cloud lab experiments  
+- Linux utilities, server setups, and system-level scripts  
+- Python tools for automation, networking, and infrastructure management  
+- Documentation and practical write-ups of hands-on projects  
 
-Repos here may vary in scope. Most reflect active learning, with some finished and polished tools.
+Repos here reflect active learning and real-world experimentation, with some polished tools and deployments.
 
 ---
 
 ## Open Source
 
 <a href="./contributions.csv">🔗List of all my Open Source contributions🔗</a>
-
----
-
-## Current Direction
-
-- Studying for **CCNA**
-- Strengthening core networking knowledge
-- Using Python to automate and understand infrastructure concepts more deeply
-
----
