@@ -1,6 +1,6 @@
 ## Who am I?
 
-B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud Computing.
+B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud Computing, Identity and Access Management (IAM).
 
 ---
 
@@ -9,7 +9,7 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 - **Cloud** - AWS (EC2, S3, IAM, VPC), deployed a FastAPI + PostgreSQL backend on EC2, familiar with GCP basics
 - **Linux** - daily driver and server OS; headless server administration, SSH hardening, UFW, systemd, Nginx
 - **Network Engineering** - CCNA coursework (ITN/SRWE/ENSA), VLAN design, inter-VLAN routing, pfSense, LAN segmentation, static routing
-- **Security & IAM** - OpenLDAP with LDAPS, SSSD+PAM integration, least-privilege ACLs, read-only service accounts, Pi-hole + mkcert for local DNS/HTTPS
+- **Security & IAM** - OpenLDAP with LDAPS, SSSD+PAM, least-privilege ACLs; Keycloak with RBAC, OIDC SSO, MFA (TOTP), brute force protection, audit logging, full employee lifecycle; Pi-hole + mkcert for local DNS/HTTPS
 - **Docker** - containerized service deployments, image builds, multi-container setups, GitHub Actions CI/CD
 - **Python** - scripting for automation, web scraping (Selenium), CLI tooling
 - **Terraform** - currently learning; AWS VPC/EC2 module structure
@@ -22,12 +22,15 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 
 [**Click here for full series write up**](https://dev.to/shobanchiddarth/series/36275) | (Tenda AC1200 router, Lenovo ThinkCentre M81 headless server running Pi-hole (custom DNS, ad blocking) with HTTPS via a mkcert local CA)
 
-### Other Virtual Labs
+### Other Labs
 
-| Lab | What it covers |
-|---|---|
-| [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | `VM<—>VM<—>Host<—>Internet` Communication |
-| [OpenLDAP IAM lab](https://dev.to/shobanchiddarth/openldap-home-lab-cyber-security-technical-write-up-4g42) | LDAPS, least-privilege ACLs, SSSD+PAM, read-only service account for a fictional org |
+| Lab | GitHub Repo | What it covers |
+|---|---|---|
+| [Keycloak IAM Dev Lab](https://dev.to/shobanchiddarth/iam-development-lab-in-keycloak-19i7) | [keycloak-iam-dev-lab](https://github.com/ShobanChiddarth/keycloak-iam-dev-lab) | RBAC, OIDC SSO, MFA (TOTP), password policy, brute force protection, audit logging, full employee lifecycle for a fictional org |
+| [OpenLDAP IAM lab](https://dev.to/shobanchiddarth/openldap-home-lab-cyber-security-technical-write-up-4g42) | [keycloak-iam-dev-lab ](https://github.com/ShobanChiddarth/openldap-iam-lab) | LDAPS, least-privilege ACLs, SSSD+PAM, read-only service account for a fictional org |
+| [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | - | `VM<—>VM<—>Host<—>Internet` Communication |
+| [Local Mail Server](https://dev.to/shobanchiddarth/integrating-a-local-mail-server-into-my-ldap-lab-4h5f) | [postfix-dovecot-mailserver-in-openldap-lab](https://github.com/ShobanChiddarth/postfix-dovecot-mailserver-in-openldap-lab) | Postfix + Dovecot with LDAP recipient lookup, LDAPS auth via SSSD, IMAPS with mkcert cert |
+
 
 ---
 
