@@ -12,7 +12,7 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 - **Security & IAM** - OpenLDAP with LDAPS, SSSD+PAM, least-privilege ACLs; Keycloak with RBAC, OIDC SSO, MFA (TOTP), brute force protection, audit logging, full employee lifecycle; Pi-hole + mkcert for local DNS/HTTPS
 - **Docker** - containerized service deployments, image builds, multi-container setups, GitHub Actions CI/CD
 - **Python** - scripting for automation, web scraping (Selenium), CLI tooling
-- **Terraform** - currently learning; AWS VPC/EC2 module structure
+- **Terraform** - provisioned AWS infrastructure for a FastAPI + PostgreSQL architecture, including VPC, public/private subnets, ALB, EC2, security groups, and controlled NAT usage
 
 ---
 
@@ -30,7 +30,6 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 | [OpenLDAP IAM lab](https://dev.to/shobanchiddarth/openldap-home-lab-cyber-security-technical-write-up-4g42) | [keycloak-iam-dev-lab ](https://github.com/ShobanChiddarth/openldap-iam-lab) | LDAPS, least-privilege ACLs, SSSD+PAM, read-only service account for a fictional org |
 | [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | - | `VM<—>VM<—>Host<—>Internet` Communication |
 | [Local Mail Server](https://dev.to/shobanchiddarth/integrating-a-local-mail-server-into-my-ldap-lab-4h5f) | [postfix-dovecot-mailserver-in-openldap-lab](https://github.com/ShobanChiddarth/postfix-dovecot-mailserver-in-openldap-lab) | Postfix + Dovecot with LDAP recipient lookup, LDAPS auth via SSSD, IMAPS with mkcert cert |
-
 
 ---
 
@@ -53,10 +52,12 @@ I write a blog on [dev.to](https://dev.to/shobanchiddarth)
 
 | Repo | What it is |
 |---|---|
+| [alumni-connect-terraform](https://github.com/ShobanChiddarth/alumni-connect-backend) | Terraform AWS architecture provisioning (VPC, ALB, EC2 backend, PostgreSQL, security groups, bastion access, controlled NAT usage) |
 | [openssh-server](https://github.com/ShobanChiddarth/openssh-server) | Containerized OpenSSH server for secure temporary LAN file transfers - configured via env vars |
 | [randomised_mac_linux](https://github.com/ShobanChiddarth/randomised_mac_linux) | MAC address randomization on Linux |
 | [panic-clone](https://github.com/ShobanChiddarth/panic-clone) | Bulk GitHub repo cloning across multiple users via the GitHub API |
 | [vscode-privacy](https://github.com/ShobanChiddarth/vscode-privacy) | Script to toggle VSCode privacy settings |
+| [alumni-connect-backend](https://github.com/ShobanChiddarth/alumni-connect-backend) | FastAPI + PostgreSQL backend with SQLAlchemy, featuring role-based user flows (student, alumni, admin), readiness scoring engine, job and mentorship systems, and fully containerized deployment using Docker Compose. |
 | [forage-virtual-internship-scraping](https://github.com/ShobanChiddarth/forage-virtual-internship-scraping) | Python/Selenium scraper for Forage virtual internship content |
 
 ---
