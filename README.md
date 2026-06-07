@@ -35,7 +35,7 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 
 ## Certifications
 
-- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/8f5485cc-12db-4e15-abba-89b3eaf8759f/public_url)
+- [AWS Cloud Practitioner](https://www.credly.com/badges/56f915f2-6b5d-4e3b-9188-04e10dea34d0/public_url)
 - [Docker Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/5e858e2b302668c3074e008f035b26bb27ecd5840e1936ef5fb225e5f07ca9fd)
 - [TCS Cybersecurity IAM Developer - Forage virtual internship](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69a0eaeeb1f8e4b8685709b8_1772548764230_completion_certificate.pdf)
 - [The Basics of Google Cloud Compute](https://www.credly.com/badges/e2bf3089-d053-4408-9852-57097f0969a8/public_url)
