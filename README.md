@@ -22,10 +22,11 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 
 [**Click here for full series write up**](https://dev.to/shobanchiddarth/series/36275) | (Tenda AC1200 router, Lenovo ThinkCentre M81 headless server running Pi-hole (custom DNS, ad blocking) with HTTPS via a mkcert local CA)
 
-### Other Home Labs
+### Other Labs
 
 | Lab | GitHub Repo | What it covers |
 |---|---|---|
+| Cisco Packet Tracer CCNA Learning Labs (from jeremy's course) | [Jeremy-Labs-CCNA-Prep](https://github.com/ShobanChiddarth/Jeremy-Labs-CCNA-Prep) | It has all the labs I practiced for CCNA. See the README of that repo. |
 | [Keycloak IAM Dev Lab](https://dev.to/shobanchiddarth/iam-development-lab-in-keycloak-19i7) | [keycloak-iam-dev-lab](https://github.com/ShobanChiddarth/keycloak-iam-dev-lab) | RBAC, OIDC SSO, MFA (TOTP), password policy, brute force protection, audit logging, full employee lifecycle for a fictional org |
 | [OpenLDAP IAM lab](https://dev.to/shobanchiddarth/openldap-home-lab-cyber-security-technical-write-up-4g42) | [keycloak-iam-dev-lab ](https://github.com/ShobanChiddarth/openldap-iam-lab) | LDAPS, least-privilege ACLs, SSSD+PAM, read-only service account for a fictional org |
 | [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | - | `VM<—>VM<—>Host<—>Internet` Communication |
