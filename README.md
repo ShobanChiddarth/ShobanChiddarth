@@ -53,6 +53,7 @@ I write a blog on [dev.to](https://dev.to/shobanchiddarth)
 
 | Repo | What it is |
 |---|---|
+| [telegram-proxy-server-aws](https://github.com/ShobanChiddarth/telegram-proxy-server-aws) | AWS Infrastructure with Terraform to host a MTProto Proxy server for Telegram clients to proxy their connection through an external server instead of directly connecting through Telegram |
 | [alumni-connect-terraform](https://github.com/ShobanChiddarth/alumni-connect-backend) | Terraform AWS architecture provisioning (VPC, ALB, EC2 backend, PostgreSQL, security groups, bastion access, controlled NAT usage) |
 | [openssh-server](https://github.com/ShobanChiddarth/openssh-server) | Containerized OpenSSH server for secure temporary LAN file transfers - configured via env vars |
 | [randomised_mac_linux](https://github.com/ShobanChiddarth/randomised_mac_linux) | MAC address randomization on Linux |
