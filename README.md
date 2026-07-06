@@ -26,6 +26,7 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 
 | Lab | GitHub Repo | What it covers |
 |---|---|---|
+| SIEM Home Lab in Wazuh | [siem-home-lab-wazuh](https://github.com/ShobanChiddarth/siem-home-lab-wazuh) | SIEM Home Lab using Wazuh with Multi-Platform Log Ingestion and Attack Simulation |
 | Cisco Packet Tracer CCNA Learning Labs (from jeremy's course) | [Jeremy-Labs-CCNA-Prep](https://github.com/ShobanChiddarth/Jeremy-Labs-CCNA-Prep) | It has all the labs I practiced for CCNA. See the README of that repo. |
 | [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | - | `VM<—>VM<—>Host<—>Internet` Communication |
 | [Keycloak IAM Dev Lab](https://dev.to/shobanchiddarth/iam-development-lab-in-keycloak-19i7) | [keycloak-iam-dev-lab](https://github.com/ShobanChiddarth/keycloak-iam-dev-lab) | RBAC, OIDC SSO, MFA (TOTP), password policy, brute force protection, audit logging, full employee lifecycle for a fictional org |
