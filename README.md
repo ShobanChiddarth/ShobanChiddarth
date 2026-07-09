@@ -30,18 +30,13 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 | ettercap MITM Home Lab | [ettercap-mitm-home-lab](https://github.com/ShobanChiddarth/ettercap-mitm-home-lab) | ARP Poisoning MITM Lab using ettercap and traffic analysis with Wireshark |
 | Cisco Packet Tracer CCNA Learning Labs (from jeremy's course) | [Jeremy-Labs-CCNA-Prep](https://github.com/ShobanChiddarth/Jeremy-Labs-CCNA-Prep) | It has all the labs I practiced for CCNA. See the README of that repo. |
 | [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | - | `VM<—>VM<—>Host<—>Internet` Communication |
-<!--
-| [Keycloak IAM Dev Lab](https://dev.to/shobanchiddarth/iam-development-lab-in-keycloak-19i7) | [keycloak-iam-dev-lab](https://github.com/ShobanChiddarth/keycloak-iam-dev-lab) | RBAC, OIDC SSO, MFA (TOTP), password policy, brute force protection, audit logging, full employee lifecycle for a fictional org |
-| [OpenLDAP IAM lab](https://dev.to/shobanchiddarth/openldap-home-lab-cyber-security-technical-write-up-4g42) | [keycloak-iam-dev-lab ](https://github.com/ShobanChiddarth/openldap-iam-lab) | LDAPS, least-privilege ACLs, SSSD+PAM, read-only service account for a fictional org |
-| [Local Mail Server](https://dev.to/shobanchiddarth/integrating-a-local-mail-server-into-my-ldap-lab-4h5f) | [postfix-dovecot-mailserver-in-openldap-lab](https://github.com/ShobanChiddarth/postfix-dovecot-mailserver-in-openldap-lab) | Postfix + Dovecot with LDAP recipient lookup, LDAPS auth via SSSD, IMAPS with mkcert cert |
--->
+
 ---
 
 ## Certifications
 
 - [AWS Cloud Practitioner](https://www.credly.com/badges/56f915f2-6b5d-4e3b-9188-04e10dea34d0/public_url)
 - [Docker Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/5e858e2b302668c3074e008f035b26bb27ecd5840e1936ef5fb225e5f07ca9fd)
-- [TCS Cybersecurity IAM Developer - Forage virtual internship](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_69a0eaeeb1f8e4b8685709b8_1772548764230_completion_certificate.pdf)
 - [The Basics of Google Cloud Compute](https://www.credly.com/badges/e2bf3089-d053-4408-9852-57097f0969a8/public_url)
 
 ---
