@@ -20,7 +20,7 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 
 ### Physical Network Engineering Lab
 
-[**Click here for full series write up**](https://dev.to/shobanchiddarth/series/36275) | (Tenda AC1200 router, Lenovo ThinkCentre M81 headless server running Pi-hole (custom DNS, ad blocking) with HTTPS via a mkcert local CA)
+[**Click here for full series write up**]([https://dev.to/shobanchiddarth/series/36275](https://shobanchiddarth.hashnode.dev/series/network-engineering-home-lab)) | (Tenda AC1200 router, Lenovo ThinkCentre M81 headless server running Pi-hole (custom DNS, ad blocking) with HTTPS via a mkcert local CA)
 
 ### Other Labs
 
