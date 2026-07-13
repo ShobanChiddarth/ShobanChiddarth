@@ -43,7 +43,7 @@ B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud
 
 ## Writing
 
-I write a blog on [dev.to](https://dev.to/shobanchiddarth)
+I write a blog: [shobanchiddarth.hashnode.dev](https://shobanchiddarth.hashnode.dev)
 
 ---
 
@@ -51,6 +51,7 @@ I write a blog on [dev.to](https://dev.to/shobanchiddarth)
 
 | Repo | What it is |
 |---|---|
+| [ResumeOps](https://github.com/ShobanChiddarth/ResumeOps) | CI/CD for your Resume; Lets you maintain several versions of your Resume in plain text files (LaTeX format, .tex extension) and automates exporting to .pdf files on every push |
 | [telegram-proxy-server-aws](https://github.com/ShobanChiddarth/telegram-proxy-server-aws) | AWS Infrastructure with Terraform to host a MTProto Proxy server for Telegram clients to proxy their connection through an external server instead of directly connecting through Telegram |
 | [nat-instance-aws-terraform](https://github.com/ShobanChiddarth/nat-instance-aws-terraform) | (template project) Self Managed NAT Instance to replace AWS managed NAT Gateway for cost saving |
 | [alumni-connect-terraform](https://github.com/ShobanChiddarth/alumni-connect-backend) | Terraform AWS architecture provisioning (VPC, ALB, EC2 backend, PostgreSQL, security groups, bastion access, controlled NAT usage) |
