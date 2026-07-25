@@ -1,22 +1,22 @@
 ## Who am I?
 
-B. Tech IT student with hands on experience in Linux, Network Engineering, Cloud Computing, Identity and Access Management (IAM).
+Linux user with hands on experience across Cybersecurity, Cloud, Networks.
 
 ---
 
 ## What I Work With
 
-- **Cloud** - AWS (EC2, S3, IAM, VPC), deployed a FastAPI + PostgreSQL backend on EC2, familiar with GCP basics
+- **Cloud** - AWS, GCP
 - **Linux** - daily driver and server OS; headless server administration, SSH hardening, UFW, systemd, Nginx
-- **Network Engineering** - CCNA coursework (ITN/SRWE/ENSA), VLAN design, inter-VLAN routing, pfSense, LAN segmentation, static routing
-- **Security & IAM** - OpenLDAP with LDAPS, SSSD+PAM, least-privilege ACLs; Keycloak with RBAC, OIDC SSO, MFA (TOTP), brute force protection, audit logging, full employee lifecycle; Pi-hole + mkcert for local DNS/HTTPS
+- **Network Engineering** - TCP/IP, DNS, DHCP, VLAN design, inter-VLAN routing, pfSense, subnetting, routing, switching
+- **Security** - Wazuh, SIEM, Wireshark. nmap, Burpsuite, Kali Linux, 
 - **Docker** - containerized service deployments, image builds, multi-container setups, GitHub Actions CI/CD
-- **Python** - scripting for automation, web scraping (Selenium), CLI tooling
-- **Terraform** - provisioned AWS infrastructure for a FastAPI + PostgreSQL architecture, including VPC, public/private subnets, ALB, EC2, security groups, and controlled NAT usage
+- **Python** - scripting for automation, web scraping (Selenium), CLI tooling, FastAPI backend
+- **Terraform** - Can work in Terraform provisioning and management
 
 ---
 
-## My Labs
+## Labs
 
 ### Physical Network Engineering Lab
 
