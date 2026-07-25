@@ -20,7 +20,7 @@ Linux user with hands on experience across Cybersecurity, Cloud, Networks.
 
 ### Physical Network Engineering Lab
 
-[**Click here for full series write up**]([https://dev.to/shobanchiddarth/series/36275](https://shobanchiddarth.hashnode.dev/series/network-engineering-home-lab)) | (Tenda AC1200 router, Lenovo ThinkCentre M81 headless server running Pi-hole (custom DNS, ad blocking) with HTTPS via a mkcert local CA)
+[**Click here for full series write up**](https://shobanchiddarth.hashnode.dev/series/network-engineering-home-lab) | (Tenda AC1200 router, Lenovo ThinkCentre M81 headless server running Pi-hole (custom DNS, ad blocking) with HTTPS via a mkcert local CA)
 
 ### Other Labs
 
@@ -29,7 +29,7 @@ Linux user with hands on experience across Cybersecurity, Cloud, Networks.
 | SIEM Home Lab in Wazuh | [siem-home-lab-wazuh](https://github.com/ShobanChiddarth/siem-home-lab-wazuh) | SIEM Home Lab using Wazuh with Multi-Platform Log Ingestion and Attack Simulation |
 | ettercap MITM Home Lab | [ettercap-mitm-home-lab](https://github.com/ShobanChiddarth/ettercap-mitm-home-lab) | ARP Poisoning MITM Lab using ettercap and traffic analysis with Wireshark |
 | Cisco Packet Tracer CCNA Learning Labs (from jeremy's course) | [Jeremy-Labs-CCNA-Prep](https://github.com/ShobanChiddarth/Jeremy-Labs-CCNA-Prep) | It has all the labs I practiced for CCNA. See the README of that repo. |
-| [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | - | `VM<—>VM<—>Host<—>Internet` Communication |
+| [Superior VM Intercommunication](https://dev.to/shobanchiddarth/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | - | Template for most of my labs |
 
 ---
 
