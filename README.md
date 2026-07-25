@@ -6,13 +6,15 @@ Linux user with hands on experience across Cybersecurity, Cloud, Networks.
 
 ## What I Work With
 
-- **Cloud** - AWS, GCP
-- **Linux** - daily driver and server OS; headless server administration, SSH hardening, UFW, systemd, Nginx
-- **Network Engineering** - TCP/IP, DNS, DHCP, VLAN design, inter-VLAN routing, pfSense, subnetting, routing, switching
-- **Security** - Wazuh, SIEM, Wireshark. nmap, Burpsuite, Kali Linux, 
-- **Docker** - containerized service deployments, image builds, multi-container setups, GitHub Actions CI/CD
-- **Python** - scripting for automation, web scraping (Selenium), CLI tooling, FastAPI backend
-- **Terraform** - Can work in Terraform provisioning and management
+- **Security Operations** - Wazuh SIEM, Alert Triage, Security Monitoring, Log Analysis, Windows Event Logs, Linux Auth Logs, File Integrity
+Monitoring (FIM), Active Response, Vulnerability Research
+- **Network and Endpoint Security** - pfSense, UFW, Endpoint Protection, AWS Security Groups, AWS NACLs, Cisco IOS ACLs
+- **Cloud and Infrastructure** - AWS, Terraform (Infrastructure as Code), Docker, VirtualBox
+- **DevOps** - CI/CD using GitHub Actions, self hosted runners, cron job, automation
+- **Linux** - Daily driver (I use Linux btw), server administration, SSH hardening, UFW, systemd, Nginx
+- **Network Engineering** - TCP/IP, DNS, DHCP, Routing, Subnetting, Cisco IOS, Network Design, Virtual Networking
+- **Programming** - Python (FastAPI, scripting, automatino, CLI tooling), Bash Scripting
+- **Version Control** - Git & GitHub
 
 ---
 
