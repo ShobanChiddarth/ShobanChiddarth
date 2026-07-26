@@ -1,23 +1,3 @@
-## Who am I?
-
-Linux user with hands on experience across Cybersecurity, Cloud, Networks.
-
----
-
-## What I Work With
-
-- **Security Operations** - Wazuh SIEM, Alert Triage, Security Monitoring, Log Analysis, Windows Event Logs, Linux Auth Logs, File Integrity
-Monitoring (FIM), Active Response, Vulnerability Research
-- **Network and Endpoint Security** - pfSense, UFW, Endpoint Protection, AWS Security Groups, AWS NACLs, Cisco IOS ACLs
-- **Cloud and Infrastructure** - AWS, Terraform (Infrastructure as Code), Docker, VirtualBox
-- **DevOps** - CI/CD using GitHub Actions, self hosted runners, cron job, automation
-- **Linux** - Daily driver (I use Linux btw), server administration, SSH hardening, UFW, systemd, Nginx
-- **Network Engineering** - TCP/IP, DNS, DHCP, Routing, Subnetting, Cisco IOS, Network Design, Virtual Networking
-- **Programming** - Python (FastAPI, scripting, automatino, CLI tooling), Bash Scripting
-- **Version Control** - Git & GitHub
-
----
-
 ## Labs
 
 ### Physical Network Engineering Lab
@@ -35,20 +15,6 @@ Monitoring (FIM), Active Response, Vulnerability Research
 
 ---
 
-## Certifications
-
-- [AWS Cloud Practitioner](https://www.credly.com/badges/56f915f2-6b5d-4e3b-9188-04e10dea34d0/public_url)
-- [Docker Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/5e858e2b302668c3074e008f035b26bb27ecd5840e1936ef5fb225e5f07ca9fd)
-- [The Basics of Google Cloud Compute](https://www.credly.com/badges/e2bf3089-d053-4408-9852-57097f0969a8/public_url)
-
----
-
-## Writing
-
-I write a blog: [shobanchiddarth.hashnode.dev](https://shobanchiddarth.hashnode.dev)
-
----
-
 ## My Projects
 
 | Repo | What it is |
@@ -56,13 +22,8 @@ I write a blog: [shobanchiddarth.hashnode.dev](https://shobanchiddarth.hashnode.
 | [ResumeOps](https://github.com/ShobanChiddarth/ResumeOps) | CI/CD for your Resume; Lets you maintain several versions of your Resume in plain text files (LaTeX format, .tex extension) and automates exporting to .pdf files on every push |
 | [telegram-proxy-server-aws](https://github.com/ShobanChiddarth/telegram-proxy-server-aws) | AWS Infrastructure with Terraform to host a MTProto Proxy server for Telegram clients to proxy their connection through an external server instead of directly connecting through Telegram |
 | [nat-instance-aws-terraform](https://github.com/ShobanChiddarth/nat-instance-aws-terraform) | (template project) Self Managed NAT Instance to replace AWS managed NAT Gateway for cost saving |
-| [alumni-connect-terraform](https://github.com/ShobanChiddarth/alumni-connect-backend) | Terraform AWS architecture provisioning (VPC, ALB, EC2 backend, PostgreSQL, security groups, bastion access, controlled NAT usage) |
-| [openssh-server](https://github.com/ShobanChiddarth/openssh-server) | Containerized OpenSSH server for secure temporary LAN file transfers - configured via env vars |
-| [randomised_mac_linux](https://github.com/ShobanChiddarth/randomised_mac_linux) | MAC address randomization on Linux |
-| [panic-clone](https://github.com/ShobanChiddarth/panic-clone) | Bulk GitHub repo cloning across multiple users via the GitHub API |
-| [vscode-privacy](https://github.com/ShobanChiddarth/vscode-privacy) | Script to toggle VSCode privacy settings |
-| [alumni-connect-backend](https://github.com/ShobanChiddarth/alumni-connect-backend) | FastAPI + PostgreSQL backend with SQLAlchemy, featuring role-based user flows (student, alumni, admin), readiness scoring engine, job and mentorship systems, and fully containerized deployment using Docker Compose. |
-| [forage-virtual-internship-scraping](https://github.com/ShobanChiddarth/forage-virtual-internship-scraping) | Python/Selenium scraper for Forage virtual internship content |
+| [Containerized openssh-server](https://github.com/ShobanChiddarth/openssh-server) | Containerized OpenSSH server for secure temporary LAN file transfers - configured via env vars |
+| [randomised_mac_linux](https://github.com/ShobanChiddarth/randomised_mac_linux) | MAC address randomization for network interfaces on Linux desktop |
 
 ---
 
