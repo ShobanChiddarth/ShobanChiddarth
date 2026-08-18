@@ -6,8 +6,7 @@ I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Secu
 
 - **Security Operations**: Wazuh SIEM, threat detection, FIM, alert triage
 - **Detection Engineering**: SigmaHQ rule authoring, OpenSearch, log analysis
-- **Network Engineering**: TCP/IP, DNS, VPC Design, Subnetting, Routing, Virtual Networking, Cisco IOS
-- **Network Security**: pfSense, Pi-hole, Wireshark, configuring and securing network devices
+- **Network Engineering and Network Security**: TCP/IP, DNS, DHCP, Subnetting, Routing, Switching, pfSense, pi-hole, Wireshark
 - **Cloud Platforms**: AWS
 - **Cloud Security**: AWS IAM, Security Groups, NACLs, CloudTrail, S3 bucket policies
 - **Infrastructure as Code**: Terraform
