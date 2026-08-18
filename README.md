@@ -10,7 +10,7 @@ I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Secu
 - **Cloud Platforms**: AWS
 - **Cloud Security**: AWS IAM, Security Groups, NACLs, CloudTrail, S3 bucket policies
 - **Infrastructure as Code**: Terraform
-- **CI/CD & Automation**: GitHub Actions, systemd
+- **CI/CD**: GitHub Actions
 - **Programming**: Python (FastAPI, scripting, automation), Bash
 - **Containers & Virtualization**: Docker, VirtualBox
 - **Operating Systems**: Linux (daily driver, server administration, VPS hardening), Windows
