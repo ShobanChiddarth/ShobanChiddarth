@@ -28,7 +28,7 @@ I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Secu
 | [Superior VM Intercommunication](https://shobanchiddarth.hashnode.dev/the-superior-way-to-make-vms-communicate-with-each-other-as-well-as-host-with-internet-access-42m1) | <span><ul><li>Created a lab template for virtual labs in VirtualBox</li><li>Used pfSense as a virtual router to act as an internet gateway for VirtualBox's virtual networks (like Host-only or Internal)</li><li>Created "base" VMs in VirtualBox with an OS installed, which can be cloned when I need a VM of that OS instead of installing an OS from scratch every time</li></ul></span> |
 
 
-## My Projects
+## Projects
 
 | Title | Description |
 |---|---|
