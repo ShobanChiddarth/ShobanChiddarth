@@ -1,7 +1,6 @@
 ## Introduction
 
-I am a GNU+Linux user with a profound interest in Cybersecurity and Cloud Computing. As I have been getting into computers deeper and deeper I got interested in protecting systems. I am currently in the final year of my college and open to do internships in Cybersecurity.
-
+I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Security Operations, Detection Engineering, Cloud Security and I am also interested in Linux Administration, Network Engineering, Cloud/DevOps Engineering. I enjoy building hands-on labs and security tooling to understand how systems work and how they can be secured. I am currently in my final year of college and open to internships.
 
 ## Skills and Tools
 
