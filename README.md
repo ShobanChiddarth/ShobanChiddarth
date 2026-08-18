@@ -34,12 +34,12 @@ I am a GNU+Linux user with a profound interest in Cybersecurity and Cloud Comput
 
 | Title | Description |
 |---|---|
-| [SigmaDojo](https://github.com/ShobanChiddarth/SigmaDojo) | D |
-| [ResumeOps](https://github.com/ShobanChiddarth/ResumeOps) | CI/CD for your Resume; Lets you maintain several versions of your Resume in plain text files (LaTeX format, .tex extension) and automates exporting to .pdf files on every push |
-| [telegram-proxy-server-aws](https://github.com/ShobanChiddarth/telegram-proxy-server-aws) | AWS Infrastructure with Terraform to host a MTProto Proxy server for Telegram clients to proxy their connection through an external server instead of directly connecting through Telegram |
-| [nat-instance-aws-terraform](https://github.com/ShobanChiddarth/nat-instance-aws-terraform) | (template project) Self Managed NAT Instance to replace AWS managed NAT Gateway for cost saving |
-| [Containerized openssh-server](https://github.com/ShobanChiddarth/openssh-server) | Containerized OpenSSH server for secure temporary LAN file transfers - configured via env vars |
-| [randomised_mac_linux](https://github.com/ShobanChiddarth/randomised_mac_linux) | MAC address randomization for network interfaces on Linux desktop |
+| [SigmaDojo](https://github.com/ShobanChiddarth/SigmaDojo) | <span><ul><li>Created TryHackMe style labs to teach Detection Engineering (sigma rule writing) to users</li><li>Added a custom rule interpreter to query synthetic log datasets</li><li>Added optional export to Splunk SPL or Sentinel KQL syntax</li></ul></span> |
+| [ResumeOps](https://github.com/ShobanChiddarth/ResumeOps) | <span><ul><li>CI/CD for your Resume</li><li>Lets you maintain several versions of your Resume in plain text files so you can version control them in Git</li><li>Implements GitOps to automatically convert to .pdf files</li><li>Saves time spent in manually exporting and managing Resumes</li></ul></span> |
+| [telegram-proxy-server-aws](https://github.com/ShobanChiddarth/telegram-proxy-server-aws) | <span><ul><li>Created a MTProto Proxy server for Telegram in AWS</li><li>Encrypted and obfuscated a connection from Telegram clients to Telegram over the proxy</li><li>Made it run on port :443 so it looks like regular HTTPS traffic</li><li>Saved the infrastructure in Terraform IaC for one click deploy</li></ul></span> |
+| [nat-instance-aws-terraform](https://github.com/ShobanChiddarth/nat-instance-aws-terraform) | <span><ul><li>Created an AWS architecture to replace AWS NAT Gateway with a self managed NAT instance</li><li>Saved [~$420/month for a ~$300/GB egress infrastructure](https://shobanchiddarth.hashnode.dev/i-recently-learnt-how-to-setup-a-nat-instance-instead-of-nat-gateway-in-aws#cost-calculation)</li><li>Saved the architecture as a Terraform repo for re-usability</li></ul></span> |
+| [Containerized openssh-server](https://github.com/ShobanChiddarth/openssh-server) | <span><ul><li>Created a Docker container to host an OpenSSH server instance for LAN file transfer</li><li>Enhanced privacy in file transfer by requiring SSH authentication (SSH is encrypted by default)</li><li>Reduced cyber attacks by making SSH server instance delete after transfer is over so attack surface is reduced as SSH service is not permanently up in host</li></ul></span> |
+| [randomised_mac_linux](https://github.com/ShobanChiddarth/randomised_mac_linux) | <span><ul><li>Created a script to spoof the MAC address of real network interfaces in a Linux desktop</li><li>Integrated the script with systemd to run on boot</li><li>Increased privacy of Linux desktop by reducing network-level spying and tracking</li></ul></span> |
 
 ## Open Source Contributions
 
