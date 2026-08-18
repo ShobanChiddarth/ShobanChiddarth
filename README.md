@@ -36,6 +36,7 @@ I am a GNU+Linux user with a profound interest in Cybersecurity and Cloud Comput
 |---|---|
 | [SigmaDojo](https://github.com/ShobanChiddarth/SigmaDojo) | D |
 | [ResumeOps](https://github.com/ShobanChiddarth/ResumeOps) | CI/CD for your Resume; Lets you maintain several versions of your Resume in plain text files (LaTeX format, .tex extension) and automates exporting to .pdf files on every push |
+| [SigmaDojo](https://github.com/shobanchiddarth/sigmadojo) | Tryhackme style labs to teach detection engineering using sigma, with CI/CD for publishing images and docker compose to run the entire app locally |
 | [telegram-proxy-server-aws](https://github.com/ShobanChiddarth/telegram-proxy-server-aws) | AWS Infrastructure with Terraform to host a MTProto Proxy server for Telegram clients to proxy their connection through an external server instead of directly connecting through Telegram |
 | [nat-instance-aws-terraform](https://github.com/ShobanChiddarth/nat-instance-aws-terraform) | (template project) Self Managed NAT Instance to replace AWS managed NAT Gateway for cost saving |
 | [Containerized openssh-server](https://github.com/ShobanChiddarth/openssh-server) | Containerized OpenSSH server for secure temporary LAN file transfers - configured via env vars |
