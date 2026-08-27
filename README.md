@@ -59,14 +59,14 @@ I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Iden
 
 ### [jazzband/prettytable](https://github.com/jazzband/prettytable/pull/186)
 
-| PR | Status | Opened on | Description |
+| PR | Opened on | Status | Description |
 | --- | --- | --- | --- |
 | [186](https://github.com/jazzband/prettytable/pull/186) |  Jun 1, 2022 | Merged | Added `None` annotation to `__init__` functions |
 
 
 ### [numpy/numpy](https://github.com/numpy/numpy)
 
-| PR | Status | Opened on | Description |
+| PR | Opened on | Status | Description |
 | --- | --- | --- | --- |
 | [21692](https://github.com/numpy/numpy/pull/21692) | Jun 8, 2022 | Merged | Minor contribution: file renaming |
 | [20949](https://github.com/numpy/numpy/pull/20949) | Jan 31, 2022 | Merged | Minor contribution: file renaming |
