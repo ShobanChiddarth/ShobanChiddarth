@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Security Operations, Detection Engineering, and Cloud Security. I also enjoy Linux Administration, Network Engineering, and Cloud/DevOps Engineering. I enjoy building hands-on labs and security tooling to understand how systems work and how they can be secured. I am currently in my final year of college and open to internships.
+I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Identity and Access Management, Cloud Security, and also Security Operations, Detection Engineering. I also enjoy Linux Administration, Network Engineering, and Cloud/DevOps Engineering. I enjoy building hands-on labs and security tooling to understand how systems work and how they can be secured.
 
 ## Skills and Tools
 
