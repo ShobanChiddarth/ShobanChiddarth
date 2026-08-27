@@ -4,6 +4,7 @@ I am a GNU+Linux user with a strong interest in Cybersecurity, particularly Secu
 
 ## Skills and Tools
 
+- **Identity and Access Management (IAM)**: Okta, SSO, OIDC, SAML, OAUTH
 - **Security Operations**: Wazuh SIEM, threat detection, FIM, alert triage, n8n SOAR
 - **Detection Engineering**: SigmaHQ rule authoring, OpenSearch, log analysis
 - **Cloud Platforms**: AWS
